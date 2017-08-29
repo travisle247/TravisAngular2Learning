@@ -5,9 +5,15 @@
     <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
     <RetryAttemptsForDeployment>30</RetryAttemptsForDeployment>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="TravisAngular2Search\**" />
+    <Content Remove="TravisAngular2Search\**" />
+    <EmbeddedResource Remove="TravisAngular2Search\**" />
+    <None Remove="TravisAngular2Search\**" />
+  </ItemGroup>
   
   <ItemGroup>
-    <Folder Include="TravisAngular2Search\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
   
