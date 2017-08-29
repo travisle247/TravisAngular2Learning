@@ -1,0 +1,9 @@
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\bin\Debug\netcoreapp1.1\TravisAngular2Search.deps.json
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\bin\Debug\netcoreapp1.1\TravisAngular2Search.runtimeconfig.json
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\bin\Debug\netcoreapp1.1\TravisAngular2Search.runtimeconfig.dev.json
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\bin\Debug\netcoreapp1.1\TravisAngular2Search.dll
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\bin\Debug\netcoreapp1.1\TravisAngular2Search.pdb
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\obj\Debug\netcoreapp1.1\TravisAngular2Search.csprojResolveAssemblyReference.cache
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\obj\Debug\netcoreapp1.1\TravisAngular2Search.AssemblyInfo.cs
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\obj\Debug\netcoreapp1.1\TravisAngular2Search.dll
+D:\Travis Angular\MyAngular2App\TravisAngular2SetUp\TravisAngular2Search\obj\Debug\netcoreapp1.1\TravisAngular2Search.pdb
